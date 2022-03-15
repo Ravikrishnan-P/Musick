@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Musick/static/css/main.f1290232.css",
+    "main.js": "/Musick/static/js/main.d81d5383.js",
+    "index.html": "/Musick/index.html",
+    "main.f1290232.css.map": "/Musick/static/css/main.f1290232.css.map",
+    "main.d81d5383.js.map": "/Musick/static/js/main.d81d5383.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1290232.css",
+    "static/js/main.d81d5383.js"
+  ]
+}
